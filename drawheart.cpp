@@ -6,7 +6,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-char* m="YuanZe University Department of Information Engineering";
+char* m="YuanZe University Department of Information Communication";
 const int W=61;
 const int H=61;
 int A[W][H] = { 0 };
